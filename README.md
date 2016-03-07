@@ -1,8 +1,10 @@
 # gh-training
 
 
-first commit
----
+This was modified in a change you SHOULD see
 
-second commit
-third...
+2 + 2 = 4
+
+
+
+** YOU SHOULD NOT SEE THIS ** 
